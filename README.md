@@ -16,7 +16,7 @@
 
 # \- \[x] Course 2: Python Data Structures
 
-# \- \[ ] Course 3: Using Python to Access Web Data (in progress)
+# \- \[x] Course 3: Using Python to Access Web Data (in progress)
 
 # \- \[ ] Course 4: Using Databases with Python
 
